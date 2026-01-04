@@ -7,3 +7,11 @@ Interface para uma base de dados relacionada com avistamentos de Orcas
 2- Nas propriedades do Servidor no SQl Management alterar o modo de autenticação do servidor de apenas windows para windows e SQL Server
 
 3- Na conecção do servidor utilizar as connection properties indicadas em db.js dentro da pasta backend do projeto  
+
+##Como rodar a interface
+
+1- abrir 2 terminais
+
+2- executar "npm install"
+
+3- em cada uma rodar a pasta backend e a interface atravez do command "npm start"
